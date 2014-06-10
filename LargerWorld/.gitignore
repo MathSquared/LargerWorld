@@ -1,0 +1,7 @@
+# Maven output folder
+target
+
+# Eclipse garbage
+.settings
+.classpath
+.project

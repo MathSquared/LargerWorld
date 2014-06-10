@@ -1,0 +1,13 @@
+name: Larger World
+main: mathsquared.largerworld.LargerWorld
+version: 0.0.1-SNAPSHOT
+commands:
+    basic:
+        description: Hello, world!
+        usage: /basic
+    basic2:
+        description: Hello, player!
+        usage: /basic2
+    vengeance:
+        description: Exact VENGEANCE upon your foes with the Sword of Vengeance!
+        usage: /vengeance
